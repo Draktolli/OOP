@@ -1,0 +1,13 @@
+C:\Users\Анатолий\source\repos\LR4\LR4\obj\Debug\netcoreapp3.1\LR4.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\LR4\LR4\obj\Debug\netcoreapp3.1\LR4.AssemblyInfoInputs.cache
+C:\Users\Анатолий\source\repos\LR4\LR4\obj\Debug\netcoreapp3.1\LR4.AssemblyInfo.cs
+C:\Users\Анатолий\source\repos\LR4\LR4\obj\Debug\netcoreapp3.1\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\LR4\LR4\bin\Debug\netcoreapp3.1\LR4.exe
+C:\Users\Анатолий\source\repos\LR4\LR4\bin\Debug\netcoreapp3.1\LR4.deps.json
+C:\Users\Анатолий\source\repos\LR4\LR4\bin\Debug\netcoreapp3.1\LR4.runtimeconfig.json
+C:\Users\Анатолий\source\repos\LR4\LR4\bin\Debug\netcoreapp3.1\LR4.runtimeconfig.dev.json
+C:\Users\Анатолий\source\repos\LR4\LR4\bin\Debug\netcoreapp3.1\LR4.dll
+C:\Users\Анатолий\source\repos\LR4\LR4\bin\Debug\netcoreapp3.1\LR4.pdb
+C:\Users\Анатолий\source\repos\LR4\LR4\obj\Debug\netcoreapp3.1\LR4.dll
+C:\Users\Анатолий\source\repos\LR4\LR4\obj\Debug\netcoreapp3.1\LR4.pdb
+C:\Users\Анатолий\source\repos\LR4\LR4\obj\Debug\netcoreapp3.1\LR4.genruntimeconfig.cache
